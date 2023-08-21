@@ -30,9 +30,9 @@
     </p>
   </td>
   <td width = "50%">
-    <br>
+   
     
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&hide=prs_merged&show_icons=true&theme=radical"/>
+      ![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=Caiquekola&hide=prs_merged&show_icons=true&theme=radical")
 
     
   </td>
