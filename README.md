@@ -24,10 +24,10 @@
   <tr>
   <td width = "50%">
     <br>
-    <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiquekola&count_private=true"/>
+    
+      
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-    </p>
+    
   </td>
   <td width = "50%">
    
