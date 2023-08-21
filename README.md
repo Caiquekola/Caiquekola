@@ -32,8 +32,8 @@
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquekola&count_private=true&layout=compact"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+      <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&show_icons=true&theme=radical)"/>
+
     </p>
   </td>
 
