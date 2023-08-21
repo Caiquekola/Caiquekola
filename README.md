@@ -18,7 +18,7 @@
 ### 🌱 I'm currently learning
 <code><a href="https://angular.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a></code>
-<code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-1125-SQL_Server_2022_web_blade_image_RWWaqg:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=600&qlt=100&fmt=png-alpha&fit=constrain"></a></code>
+<code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg"></a></code>
 
 <table width="100%">
   <tr>
