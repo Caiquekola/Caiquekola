@@ -1,9 +1,4 @@
-<p><center><font size="40">Olá, meu nome é Caíque</font> </center></p> 
-<h1 align="center"> Seu título aqui </h1>
 <h2 align="center">Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
-
-
-
 
 ### ❓ About me
 💻 I'm a student and IT fanatic and I love competitive gaming 📚
