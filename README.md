@@ -1,4 +1,4 @@
-<center><h2>Hi there, I'm Caíque! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2></center>
+<h2><center>Hi there, I'm Caíque!</center> <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
 <p>
   <a href="https://br.linkedin.com/in/caique-augusto-braga"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Caíque%20Augusto-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:caiquekola@gmail.com">
