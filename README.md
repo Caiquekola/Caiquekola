@@ -3,11 +3,11 @@
 <h3 align="center">About me ❓ </h3> 
 <p align="center">💻 I'm a student and IT fanatic and I love competitive gaming 📚</p>
       
-### 🛠 Tech stack currently using
+<h3 align="center"> 🛠 Tech stack currently using</h3>
 
-<code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code align="center"><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 
-### 🌱 I'm currently learning
+<h3 align="center"> 🌱 I'm currently learning</h3>
 <code><a href="https://angular.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a></code>
 <code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"></a></code>
