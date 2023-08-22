@@ -17,21 +17,20 @@
   <a href="mailto:caiquekola@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-caiquekola@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
 <table width="100%">
   <tr>
   <td width = "50%">
     <br>
-    
-      
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-    
+    <p align = "center">
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiquekola)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
   </td>
   <td width = "50%">
-   
-    
-      ![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=Caiquekola&hide=prs_merged&show_icons=true&theme=radical")
-
-    
+    <br>
+    <p align = "center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabalbi&count_private=true&layout=compact"/>
+    </p>
   </td>
 
   </table>
