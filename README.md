@@ -1,7 +1,7 @@
 h2{
     text-align: center;
 }
-<h2 style="text-align:center>Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
+<h2>Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
 
 
 ### ❓ About me
