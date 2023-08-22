@@ -18,7 +18,7 @@
 ### 🌱 I'm currently learning
 <code><a href="https://angular.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a></code>
-<code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png></a></code>
+<code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"></a></code>
 
 <table width="100%">
   <tr>
