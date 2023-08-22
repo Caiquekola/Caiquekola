@@ -6,10 +6,10 @@
 </p>
 
 ### ❓ About me
-      <center>💻 Information System Student </center>
-      📚 Gamer
-      🔮 Interested in Back End and Machine Learning
-      🌱 I'm a Gamer and a fanatic about informatic
+      						💻 Information System Student 
+      						📚 Gamer
+      						🔮 Interested in Back End and Machine Learning
+      						🌱 I'm a Gamer and a fanatic about informatic
       
 ### 🛠 Tech stack currently using
 
