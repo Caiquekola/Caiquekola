@@ -20,8 +20,8 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     <img alt="Email" src="https://img.shields.io/badge/Email-caiquekola@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </p>
-<p align="center">
-<table width="100%">
+
+<table align="center" width="100%">
   <tr>
   <td width = "50%">
     <br>
@@ -37,7 +37,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
   </td>
 
   </table>
-</p>
+
 
 
 
