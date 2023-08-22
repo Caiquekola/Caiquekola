@@ -7,7 +7,7 @@
 
 ### ❓ About me
       						💻 Information System Student 
-      						📚 Gamer
+      						📚 A lover about Games
       						🔮 Interested in Back End and Machine Learning
       						🌱 I'm a Gamer and a fanatic about informatic
       
