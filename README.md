@@ -23,13 +23,13 @@
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=RADICAL&hide=prs,contribs"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=radicalL&hide=prs,contribs"/>
     </p>
   </td>
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabalbi&count_private=true&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=radical&count_private=true&layout=compact"/>
     </p>
   </td>
 
