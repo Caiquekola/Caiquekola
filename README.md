@@ -23,7 +23,7 @@
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=radicalL&hide=prs,contribs"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=radical&hide=prs,contribs"/>
     </p>
   </td>
   <td width = "50%">
