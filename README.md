@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
 
 <h3 align="center">About me ❓ </h3> 
-💻 I'm a student and IT fanatic and I love competitive gaming 📚
+<p align="center">💻 I'm a student and IT fanatic and I love competitive gaming 📚</p>
       
 ### 🛠 Tech stack currently using
 
