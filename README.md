@@ -6,7 +6,7 @@
 </p>
 
 ### ❓ About me
-      						💻 I'm a student and IT fanatic and I love competitive gaming 📚
+💻 I'm a student and IT fanatic and I love competitive gaming 📚
       
 ### 🛠 Tech stack currently using
 
