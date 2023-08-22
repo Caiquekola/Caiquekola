@@ -5,7 +5,7 @@
       
 <h3 align="center"> 🛠 Tech stack currently using</h3>
 
-<code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" align="center"></a></code>
+<code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 
 <h3 align="center"> 🌱 I'm currently learning</h3>
 <code><a href="https://angular.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></a></code>
