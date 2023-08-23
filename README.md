@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<h2 align="center">Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
+<h2 align="center">Caiquekola</h2>
 
 <h3 align="center">🤔 About me  </h3> 
 <p align="center">📚 I'm an Information Systems student and a lover of competitive games. 💻</p>
