@@ -1,8 +1,10 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 <h2 align="center">Hi there, I'm Caíque Augusto! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h2>
 
 <h3 align="center">🤔 About me  </h3> 
-<p align="center">📚 I'm a student and IT fanatic and I love competitive gaming 💻</p>
+<p align="center">📚 I'm an Information Systems student and a lover of competitive games. 💻</p>
       
 <h3 align="center"> 🛠 Tech stack currently using</h3>
 
@@ -14,12 +16,14 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
 <code><a href="https://angular.io/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></a></code>
 <code><a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank"><img height="45" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"></a></code>
+</p>
+
+<h3 align="center"> 💬 Contact me</h3>
 <p align="center">
-  <a href="https://br.linkedin.com/in/caique-augusto-braga"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Caíque%20Augusto-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:caiquekola@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-caiquekola@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://br.linkedin.com/in/caique-augusto-braga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/></a>
+  <a href="mailto:caiquekola@gmail.com"><img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
 </p>
-</p>
+
 
 <table align="center" width="100%">
   <tr>
