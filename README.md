@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<p align="center">
-  <img width:"100" heigth="50" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"/>
-</p>
+
 
 <h2 align="center">Caiquekola</h2>
 
