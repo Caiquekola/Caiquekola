@@ -40,8 +40,9 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     
   </td>
    </div>
-  <td width = "50%">
     <div>
+  <td width = "50%">
+   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact)
     
   </td>
