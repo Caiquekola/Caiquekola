@@ -41,12 +41,11 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
   </td>
    </div>
   <td width = "50%">
-    <br>
-    <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact"/>
-    </p>
+    <div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact)    "/>
+    
   </td>
-
+ </div>
   </table>
 
 
