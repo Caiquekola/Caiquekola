@@ -34,7 +34,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     
     
       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_red&show_icons=true&icon_color=30A3DC)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_red&show_icons=true&icon_color=#C62828)
     
    
     
