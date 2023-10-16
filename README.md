@@ -42,7 +42,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
    </div>
   <td width = "50%">
     <div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact)    "/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact)
     
   </td>
  </div>
