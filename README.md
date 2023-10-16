@@ -43,7 +43,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     <div>
   <td width = "50%">
    
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow-redl&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caiquekola&theme=shadow-red&hide_border=true&border_radius=4.4&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
     
   </td>
  </div>
