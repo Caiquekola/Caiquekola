@@ -32,13 +32,13 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=radical&hide=prs,contribs"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_redl&hide=prs,contribs"/>
     </p>
   </td>
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=radical&count_private=true&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquekola&theme=shadow_redl&count_private=true&layout=compact"/>
     </p>
   </td>
 
