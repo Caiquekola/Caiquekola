@@ -32,7 +32,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
   <td width = "50%">
     <br>
     <p align = "center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_redl&hide=prs,contribs"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_redl&hide=prs,contribs&show_icons=true"/>
     </p>
   </td>
   <td width = "50%">
