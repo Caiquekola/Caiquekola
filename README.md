@@ -33,7 +33,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     <br>
     <div>
       <p align = "center">
-      [Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_redl&hide=prs,contribs&show_icons=true"/>
+      [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_redl&hide=prs,contribs&show_icons=true")
     </p>
     </div>
     
