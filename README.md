@@ -6,7 +6,7 @@
 <h2 align="center">Caiquekola</h2>
 
 <h3 align="center">🤔 About me  </h3> 
-<p align="center">📚 I'm an Information Systems student and a lover of competitive games. 💻</p>
+<p align="center">📚 I'm an undergraduate Information System student and a lover of competitive games. 💻</p>
       
 <h3 align="center"> 🛠 Tech stack currently using</h3>
 
