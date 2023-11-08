@@ -34,7 +34,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     
     
       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=shadow_red&show_icons=true&icon_color=#C62828)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiquekola&theme=ambient-gradient&show_icons=true&icon_color=#C62828)
     
    
     
@@ -43,7 +43,7 @@ height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a
     <div>
   <td width = "50%">
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=Caiquekola&theme=shadow-red&hide_border=true&border_radius=4.4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caiquekola&theme=ambient-gradient&hide_border=true&border_radius=4.4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
     
   </td>
  </div>
