@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">C A I Q U E K O L A </h2>
+<h2 align="center">CAIQUEKOLA</h2>
 
 <h3 align="center">🤔 About me  </h3> 
 <p align="center">📚 I'm an undergraduate Information System student and a lover of competitive games. 💻</p>
