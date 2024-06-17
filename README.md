@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-
+<div align="right">
+<a href="https://komarev.com/ghpvc/?username=caiquekola">
+  <img src="https://komarev.com/ghpvc/?username=caiquekola&label=VIEWS&color=0EA293&style=for-the-badge" alt="Profile visitor"/>
+</a>
 
 <h2 align="center">CAIQUEKOLA</h2>
 
