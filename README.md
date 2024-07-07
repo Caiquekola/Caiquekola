@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=caiquekola&label=VIEWS&color=0EA293&style=for-the-badge" alt="Profile visitor"/>
 </a>
 
-<h2 align="center">CAIQUEKOLA</h2>
+<h2 align="center"> C A I Q U E K O L A</h2>
 
 <h3 align="center"></h3> 
 <p align="center">📚 I'm a Information System student and a lover of competitive games. 💻</p>
