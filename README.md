@@ -9,12 +9,20 @@
 <h2 align="center"> C A I Q U E K O L A</h2>
 
 <h3 align="center"></h3> 
-<p align="center">📚 I'm a Information System student and a lover of competitive games. 💻</p>
+<p align="center">🎓 Estudante de Sistemas de Informação no IFMG, atuei como monitor nas disciplinas de Algoritmos e Estruturas de Dados I e Introdução à Programação.<br>
+🏆 Competidor em Programação, representando o IFMG nas competições.<br>
+Maratona Mineira de Programação (Edições X, X e XII) <br>
+💡 Techs: SpringBoot, Django, React, e BI<br>
+💈 Atualmente estou desenvolvendo uma aplicação full-stack para uma Barbearia Local.</p>
+
       
 <h3 align="center"> 🛠 Tech stack currently using</h3>
 
 <p align="center"><code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img
 height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code></p>
+<p align="center"><code><a href="https://nextjs.org/docs" target="_blank"><img
+height="50" src="[https://www.vectorlogo.zone/logos/java/java-horizontal.svg](https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png)"></a></code></p>
+
 
 <h3 align="center"> 🌱 I'm currently learning</h3>
 <p align="center">
