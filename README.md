@@ -18,11 +18,12 @@ Maratona Mineira de Programação (Edições X, X e XII) <br>
       
 <h3 align="center"> 🛠 Tech stack currently using</h3>
 
-<p align="center"><code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img
-height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code></p>
-<p align="center"><code><a href="https://nextjs.org/docs" target="_blank"><img
-height="50" src="[https://www.vectorlogo.zone/logos/java/java-horizontal.svg](https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png)"></a></code></p>
-
+<p align="center>
+<code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img
+height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://nextjs.org/docs" target="_blank"><img
+height="50" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"></a></code>
+</p>
 
 <h3 align="center"> 🌱 I'm currently learning</h3>
 <p align="center">
