@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="center">🚀 I'm currently learning</h3>
+<h3 align="center">🚀 Estou aprendendo agora </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -61,7 +61,7 @@
 
 ---
 
-<h3 align="center">📫 Contact</h3>
+<h3 align="center">📫 Contato</h3>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/caique-augusto-braga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -70,7 +70,7 @@
 
 ---
 
-<h3 align="center">🏁 Thematic Quote</h3>
+<h3 align="center">🏁 Insipire-se</h3>
 
 <p align="center"><i>"A lógica te leva do ponto A ao B. A imaginação te leva a qualquer lugar."</i> - Albert Einstein</p>
 
