@@ -11,15 +11,15 @@
 <h1 align="center">Olá, eu sou o Caiquekola 👋</h1>
 
 <p align="center">
-  Um desenvolvedor Full Stack apaixonado por criar soluções eficientes e por competir em Maratonas de Programação.
+  Desenvolvedor Full-Stack
 </p>
 
 <div align="center">
   <p>
     🎓 Estudante de Sistemas de Informação no <strong>IFMG</strong>. <br>
     👨‍🏫 Monitor de <strong>Algoritmos e Estruturas de Dados I</strong> e <strong>Introdução à Programação</strong>. <br>
-    🚀 Foco em desenvolvimento com <strong>Spring Boot</strong>, <strong>React</strong> e <strong>Business Intelligence</strong>. <br>
-    💈 Atualmente desenvolvendo uma aplicação completa para uma barbearia local.
+    🚀 Foco em desenvolvimento com <strong>Spring Boot</strong>, <strong>Django</strong>, <strong>React</strong>. <br>
+    💈 Atualmente desenvolvendo uma aplicação completa para uma barbearia local e desenvolvendo meus projetos pessoais.
   </p>
 </div>
 
